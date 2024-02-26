@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+# This code it was write by richartzCoffee
+# date: feb 2024.
 
 type_data=$1;
 number_of_lines=$2;
@@ -49,7 +50,7 @@ message(){
     ----------------------------------------------
 
     example
-    
+
     ./system_logs.sh -c 20
 
     """
